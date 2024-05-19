@@ -1,0 +1,5 @@
+[2024-05-19 19:02:14,128] 22 - INFO - Data Ingestion started 
+[2024-05-19 19:02:14,128] 24 - INFO - Data Reading using Pandas library from local system 
+[2024-05-19 19:02:14,173] 26 - INFO - Data Reading completed 
+[2024-05-19 19:02:14,478] 30 - INFO - Dat spliteted into train and test 
+[2024-05-19 19:02:14,835] 37 - INFO - Data Ingestion completed 

@@ -1,0 +1,3 @@
+[2024-05-19 18:59:31,131] 22 - INFO - Data Ingestion started 
+[2024-05-19 18:59:31,131] 24 - INFO - Data Reading using Pandas library from local system 
+[2024-05-19 18:59:31,138] 45 - INFO - Erro occured in data ingestion stage 
