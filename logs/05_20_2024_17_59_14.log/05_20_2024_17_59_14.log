@@ -1,0 +1,10 @@
+[2024-05-20 17:59:16,225] 23 - INFO - Data Ingestion started 
+[2024-05-20 17:59:16,225] 25 - INFO - Data Reading using Pandas library from local system 
+[2024-05-20 17:59:16,262] 27 - INFO - Data Reading completed 
+[2024-05-20 17:59:16,442] 31 - INFO - Dat spliteted into train and test 
+[2024-05-20 17:59:16,647] 38 - INFO - Data Ingestion completed 
+[2024-05-20 17:59:16,787] 84 - INFO - outliers capped on our train data 
+[2024-05-20 17:59:16,831] 89 - INFO - outliers capped on test data 
+[2024-05-20 17:59:16,831] 30 - INFO -  Data transformation started 
+[2024-05-20 17:59:16,831] 96 - INFO - splitting train data into dependent and independent features 
+[2024-05-20 17:59:16,847] 100 - INFO - splitting test data into dependent and independent features 
