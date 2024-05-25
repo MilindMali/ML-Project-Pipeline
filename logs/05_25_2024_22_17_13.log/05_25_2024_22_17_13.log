@@ -1,0 +1,14 @@
+[2024-05-25 22:17:15,086] 24 - INFO - Data Ingestion started 
+[2024-05-25 22:17:15,086] 26 - INFO - Data Reading using Pandas library from local system 
+[2024-05-25 22:17:15,129] 28 - INFO - Data Reading completed 
+[2024-05-25 22:17:15,322] 36 - INFO - Data splitted into train and test set 
+[2024-05-25 22:17:15,541] 40 - INFO - Data Ingestion completed 
+[2024-05-25 22:17:15,676] 86 - INFO - outliers capped on our train data 
+[2024-05-25 22:17:15,731] 91 - INFO - outliers capped on test data 
+[2024-05-25 22:17:15,732] 30 - INFO -  Data transformation started 
+[2024-05-25 22:17:15,732] 98 - INFO - splitting train data into dependent and independent features 
+[2024-05-25 22:17:15,737] 102 - INFO - splitting test data into dependent and independent features 
+[2024-05-25 22:17:15,813] 30 - INFO - splitting data into independent and dependent feature variables 
+[2024-05-25 22:17:15,813] 36 - INFO - ML models are intialized 
+[2024-05-25 22:17:15,813] 43 - INFO - parameters of ML models are initialized 
+[2024-05-25 22:17:15,813] 68 - INFO - Reports are generated 

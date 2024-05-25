@@ -1,0 +1,16 @@
+[2024-05-25 22:44:21,247] 24 - INFO - Data Ingestion started 
+[2024-05-25 22:44:21,247] 26 - INFO - Data Reading using Pandas library from local system 
+[2024-05-25 22:44:21,289] 28 - INFO - Data Reading completed 
+[2024-05-25 22:44:21,480] 36 - INFO - Data splitted into train and test set 
+[2024-05-25 22:44:21,659] 40 - INFO - Data Ingestion completed 
+[2024-05-25 22:44:21,764] 86 - INFO - outliers capped on our train data 
+[2024-05-25 22:44:21,810] 91 - INFO - outliers capped on test data 
+[2024-05-25 22:44:21,810] 30 - INFO -  Data transformation started 
+[2024-05-25 22:44:21,810] 98 - INFO - splitting train data into dependent and independent features 
+[2024-05-25 22:44:21,815] 102 - INFO - splitting test data into dependent and independent features 
+[2024-05-25 22:44:21,880] 30 - INFO - splitting data into independent and dependent feature variables 
+[2024-05-25 22:44:21,880] 36 - INFO - ML models are intialized 
+[2024-05-25 22:44:21,880] 43 - INFO - parameters of ML models are initialized 
+[2024-05-25 22:44:21,880] 68 - INFO - Reports are generated 
+[2024-05-25 22:45:30,454] 97 - INFO - best model found , model name is Random Forest, and acc is 0.7851874615857406 
+[2024-05-25 22:45:30,461] 102 - INFO - best model saved 

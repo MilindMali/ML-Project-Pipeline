@@ -4,6 +4,8 @@ from src.logger import logging
 def error_message_detailed(error, error_detailed:sys):
     _, _, exc_tb=error_detailed.exc_info()
 
+    #exc_tb= Excution from try block
+
     file_name=exc_tb.tb_frame.f_code.co_filename
 
     error_message=" error occured in python script name [{0}] line number [{1} error message [{2}]]".format(
@@ -29,4 +31,4 @@ if __name__=="__main__":
         raise CustomeException(e,sys)
 
 
-
+ 
