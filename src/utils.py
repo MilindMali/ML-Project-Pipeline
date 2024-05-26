@@ -1,6 +1,5 @@
 #utils file is used for saving helper function
 
-
 from src.logger import logging
 from src.exception import CustomeException
 import os,sys
@@ -19,6 +18,14 @@ def save_object(file_path, obj):
 
     except Exception as e:
         raise CustomeException(e, sys) 
+    
+def load_object(file_path):
+    try:
+        with open(file_path,'rb') as file_obj:
+            return pickle.load(file_obj)
+    except Exception as e:
+        CustomeException(e,sys)
+
 
 def evaluate_model(X_train, y_train, X_test, y_test, models, params):
     try:
