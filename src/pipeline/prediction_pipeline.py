@@ -75,7 +75,7 @@ class CustomeClass:
 
             data=pd.DataFrame(custome_input)
 
-            return custome_input
+            return data
         
         except Exception as e:
             CustomeException(e,sys)

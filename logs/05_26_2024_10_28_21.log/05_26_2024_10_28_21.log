@@ -1,0 +1,8 @@
+[2024-05-26 10:28:24,045] 97 - WARNING -  * Debugger is active! 
+[2024-05-26 10:28:24,050] 97 - INFO -  * Debugger PIN: 270-319-713 
+[2024-05-26 10:28:26,370] 97 - INFO - 127.0.0.1 - - [26/May/2024 10:28:26] "[35m[1mGET / HTTP/1.1[0m" 500 - 
+[2024-05-26 10:28:26,415] 97 - INFO - 127.0.0.1 - - [26/May/2024 10:28:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - 
+[2024-05-26 10:28:26,420] 97 - INFO - 127.0.0.1 - - [26/May/2024 10:28:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - 
+[2024-05-26 10:28:26,773] 97 - INFO - 127.0.0.1 - - [26/May/2024 10:28:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - 
+[2024-05-26 10:28:27,031] 97 - INFO - 127.0.0.1 - - [26/May/2024 10:28:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - 
+[2024-05-26 10:30:10,665] 97 - INFO -  * Detected change in 'C:\\Users\\milin\\DSP\\ML-Project-Pipeline\\app.py', reloading 
